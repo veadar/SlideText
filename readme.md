@@ -20,14 +20,7 @@ SlideText is a macOS utility that enhances text presentation by transforming sel
 
 ## Installation
 
-1.  Clone the repository:
-
-    ```bash
-    git clone [[https://github.com/YOUR_USERNAME/SlideText.git](https://www.google.com/search?q=https://github.com/YOUR_USERNAME/SlideText.git)]([https://github.com/YOUR_USERNAME/SlideText.git](https://www.google.com/search?q=https://github.com/YOUR_USERNAME/SlideText.git))
-    ```
-
-2.  Open the project in Xcode.
-3.  Build and run the application.
+[Download](https://github.com/veadar/SlideText/tags)
 
 ## Usage
 
