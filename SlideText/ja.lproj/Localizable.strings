@@ -1,0 +1,34 @@
+/* Settings View Labels */
+"Font Size" = "文字の大きさ";
+"Theme" = "テーマ";
+"Text Width" = "テキストが表示される幅";
+"Animation" = "アニメーション";
+"Enable" = "有効";
+"Page Number" = "ページ番号表示";
+"Display Settings" = "表示設定";
+"Delimiter Settings" = "区切り文字の設定";
+"Basic" = "基本";
+"Punctuation" = "句読点";
+"Brackets" = "括弧";
+"Text Splitting" = "文字分割";
+"Line Break" = "改行";
+
+/* Theme Names */
+"Light" = "ライト";
+"Dark" = "ダーク";
+"Sepia" = "セピア";
+"Ocean" = "オーシャン";
+"Forest" = "フォレスト";
+"Sunset" = "サンセット";
+
+/* Instructions and Messages */
+"How to use: Select text from the Services menu to display as slides." = "このアプリの使い方: サービスメニューからテキストを選択して、スライド形式で表示します。";
+
+/* Format Strings */
+"%d/%d" = "%d/%d";
+
+/* Service Menu */
+"Open in SlideText" = "SlideTextで開く";
+
+/* Welcome Message */
+"Space, j/k, →←\nSelect text and choose 'Open in SlideText' from the Services menu\nPress q or reach the last slide to exit\n⌘, to open settings" = "スペース、j/k、→←\nテキストを選択して、サービスメニューから「SlideTextで開く」を選択\nqキーまたは最後のスライドで終了\n⌘, で環境設定を開く";

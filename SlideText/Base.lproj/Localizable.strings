@@ -1,0 +1,31 @@
+/* Settings View Labels */
+"Font Size" = "Font Size";
+"Theme" = "Theme";
+"Text Width" = "Text Width";
+"Animation" = "Animation";
+"Enable" = "Enable";
+"Page Number" = "Page Number";
+"Display Settings" = "Display Settings";
+"Delimiter Settings" = "Delimiter Settings";
+"Basic" = "Basic";
+"Punctuation" = "Punctuation";
+"Brackets" = "Brackets";
+"Text Splitting" = "Text Splitting";
+"Line Break" = "Line Break";
+
+/* Theme Names */
+"Light" = "Light";
+"Dark" = "Dark";
+"Sepia" = "Sepia";
+"Ocean" = "Ocean";
+"Forest" = "Forest";
+"Sunset" = "Sunset";
+
+/* Instructions and Messages */
+"How to use: Select text from the Services menu to display as slides." = "How to use: Select text from the Services menu to display as slides.";
+
+/* Format Strings */
+"%d/%d" = "%d/%d";
+
+/* Service Menu */
+"Open in SlideText" = "Open in SlideText";
