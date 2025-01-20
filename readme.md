@@ -20,7 +20,7 @@ SlideText is a macOS utility that enhances text presentation by transforming sel
 
 ## Installation
 
-[Download](https://github.com/veadar/SlideText/tags)
+[Download](https://github.com/veadar/SlideText/releases)
 
 ## Usage
 
