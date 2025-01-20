@@ -6,7 +6,7 @@ final class AboutCommand {
         alert.messageText = "SlideText"
         alert.informativeText = """
         Developer: veadar
-        Website: https://oiteiku.netlify.app
+        Website: https://github.com/veadar/SlideText/
         """
         
         _ = alert.addButton(withTitle: NSLocalizedString("Open Website", comment: "About dialog open website button"))
@@ -15,7 +15,7 @@ final class AboutCommand {
         switch alert.runModal() {
         case .alertFirstButtonReturn:
             // Open Websiteボタンがクリックされた
-            if let url = URL(string: "https://oiteiku.netlify.app") {
+            if let url = URL(string: "https://github.com/veadar/SlideText/") {
                 NSWorkspace.shared.open(url)
             }
         default:
